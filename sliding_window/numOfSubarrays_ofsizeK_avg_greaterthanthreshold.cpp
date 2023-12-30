@@ -19,6 +19,6 @@
     }
 
     int main(){
-        vector<int> v ={2,2,2,2,5,5,5,8k};
+        vector<int> v ={2,2,2,2,5,5,5,8};
         cout<<numOfSubarrays(v, 3, 4);
     }
